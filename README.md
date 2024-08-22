@@ -5,7 +5,7 @@ gcc -o calculator calculator.c
 # Usage
 ./calculator <option> <operand> <operand>
 
-Both operand must be numbers
+Both operands must be numbers any character provided as operand will be taken as zero
 
 # Options 
 -a addition
